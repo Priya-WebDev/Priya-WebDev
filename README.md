@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Priya-WebDev
-- 👀 I’m interested in FullStack development i.e in MERN Stack.
-- 🌱 I’m currently learning React,MongoDB.
-- 💞️ I’m looking to work in FrontEnd Technologies like React and BackEnd Technologies like Node.js
--  
-- 📫 connect via 
+- 👋 Hi, I’m Priya G, software developer.
+- 👀 I’m interested in Full Stack Software development
+- 💞️ My Skills are Java,JavaScript,React.js,Node.js,Express, HTML, CSS.
+- 🌱 I’m currently learning SQL,MongoDB-  
+- 📫 connect via priyaganga22@gmail.com
 
-<!---
-Priya-WebDev/Priya-WebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
